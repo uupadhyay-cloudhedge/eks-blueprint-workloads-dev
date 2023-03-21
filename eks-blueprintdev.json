@@ -1,5 +1,5 @@
 {
-    "name": "od-eks-dev-01",
+    "name": "tst-eks-dev-01",
     "env": "stg",
     "spec": {
         "variables" : {
