@@ -1,6 +1,6 @@
 {
     "name": "tst-eks-dev-01",
-    "env": "stg",
+    "env": "dev",
     "spec": {
         "variables" : {
             "region" : "us-east-2",
