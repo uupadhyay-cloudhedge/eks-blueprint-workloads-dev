@@ -1,0 +1,12 @@
+{
+    "name": "od-eks-dev-01",
+    "env": "stg",
+    "spec": {
+        "variables" : {
+            "region" : "us-east-2",
+            "cluster_version" : "1.23",
+            "gitops_repo_url": "git@github.com:uupadhyay-cloudhedge/eks-blueprint-workloads-dev.git",
+            "ssh_key_secret_name": "ch-demo"
+        }
+    } 
+}
